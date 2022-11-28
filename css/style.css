@@ -237,3 +237,13 @@ footer{
     color: rgb(0, 0, 0);
     text-align: center;
 }
+/* pagina contacto */
+#contacto{
+    background-color: #fff;
+    margin-top: 155px;
+}
+#contacto .titulo{
+    width: 100%;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
