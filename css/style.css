@@ -247,3 +247,13 @@ footer{
     color: rgb(0, 0, 0);
     text-align: center;
 }
+/* pagina contacto */
+#minitecas{
+    background-color: rgb(0, 0, 0);
+    margin-top: 170px;
+}
+#minitecas .titulo{
+    width: 100%;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
